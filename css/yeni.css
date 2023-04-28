@@ -1,0 +1,16 @@
+.highlights{
+    text-align: center;
+    margin-top: 20px;
+}
+.highlights .card .card-footer{
+    display: flex;
+    border: none;
+background-color: white;
+}
+.highlights .card .card-footer > div{
+    flex:1;
+    padding:8px;
+}
+.highlights .card-footer i{
+    font-size: medium;
+}
